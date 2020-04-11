@@ -21,7 +21,7 @@ IPA托管
   
 itms-services://?action=download-manifest&url=         
   
-如 ：itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/fdfdfewfe32ds/IPA-Trusteeship/master/ipa.plist  
+如 ：itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/fdfdfewfe32ds/IPA-Trusteeship/master/am.plist  
   
 将上边的链接生成二维码或直接使用Safair浏览器打开即可弹出安装程序界面  
 (由于github原因，所以安装速度会很慢，最终将ipa包和plist文件放在自己服务器即可)  
