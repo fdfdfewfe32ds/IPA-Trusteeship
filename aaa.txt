@@ -1,0 +1,4 @@
+https://oss-supersign-pro.oss-cn-hangzhou.aliyuncs.com/package/ios/resign_output/C01/iphone_c01_b570c54c36beae8f40762aea0746fd30_4.0.16-e9f7481d85536b571da0fa6bc1563472/iphone_c01_b570c54c36beae8f40762aea0746fd30_4.0.16-e9f7481d85536b571da0fa6bc1563472.ipa
+
+
+https://oss-supersign-pro.oss-cn-hangzhou.aliyuncs.com/package/ios/resign_output/C01/iphone_c01_b570c54c36beae8f40762aea0746fd30_4.0.16-2a63f6f7823d90c90c2e485286ef2b88/iphone_c01_b570c54c36beae8f40762aea0746fd30_4.0.16-2a63f6f7823d90c90c2e485286ef2b88.ipa
